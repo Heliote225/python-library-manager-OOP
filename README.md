@@ -81,8 +81,8 @@ data/: Stores saved books in JSON format
 tests/: Unit tests for the application
 ```
 
-Contributing
+## Contributing
 Pull requests are welcome. For major changes, open an issue first to discuss what you would like to change.
 
-License
+## License
 Open Source
