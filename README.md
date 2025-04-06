@@ -2,17 +2,17 @@
 
 ## Project Purpose
 
->>> This project was created to showcase my skills in object-oriented programming (OOP) with Python. It complements my technical background with a concrete, well-structured implementation that aligns with current industry standards and expectations from recruiters.
+>This project was created to showcase my skills in object-oriented programming (OOP) with Python. It complements my technical background with a concrete, well-structured implementation that aligns with current industry standards and expectations from recruiters.
 
-Through this command-line library manager, I aimed to demonstrate my ability to:
+>Through this command-line library manager, I aimed to demonstrate my ability to:
 
-Design clean and modular OOP architecture
+> - Design clean and modular OOP architecture
 
-Implement business logic that is testable and maintainable
+> - Implement business logic that is testable and maintainable
 
-Handle file operations (JSON), error management, and unit testing
+> - Handle file operations (JSON), error management, and unit testing
 
-This project is part of a continuous learning approach to align my expertise with the current demands of the software development job market.
+>This project is part of a continuous learning approach to align my expertise with the current demands of the software development job market.
 
 
 
