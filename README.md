@@ -2,20 +2,7 @@
 
 ## Project Purpose
 
-FR : Ce projet a été conçu dans le but de démontrer mes compétences en programmation orientée objet (OOP) avec Python. Il complète mes connaissances techniques par une mise en pratique concrète, dans un format structuré et maintenable, en suivant les bonnes pratiques actuellement recherchées par les recruteurs.
-
-À travers ce gestionnaire de bibliothèque en ligne de commande (CLI), j’ai voulu illustrer ma capacité à :
-
-Concevoir une architecture orientée objets claire
-
-Implémenter une logique métier testable et modulaire
-
-Manipuler des fichiers (JSON), gérer des erreurs et intégrer des tests unitaires
-
-Ce projet s’inscrit dans une démarche d’apprentissage continu, visant à aligner mes compétences sur les attentes actuelles du marché du développement logiciel.
-
-
-EN : This project was created to showcase my skills in object-oriented programming (OOP) with Python. It complements my technical background with a concrete, well-structured implementation that aligns with current industry standards and expectations from recruiters.
+>>> This project was created to showcase my skills in object-oriented programming (OOP) with Python. It complements my technical background with a concrete, well-structured implementation that aligns with current industry standards and expectations from recruiters.
 
 Through this command-line library manager, I aimed to demonstrate my ability to:
 
