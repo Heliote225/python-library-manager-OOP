@@ -40,10 +40,10 @@ A simple command-line application written in Python to manage a small library sy
 ### Getting Started
 
 #### Clone the repository
-
+```bash
 git clone https://github.com/votre-utilisateur/python-library-manager.git
 cd python-library-manager
-
+```
 #### Install dependencies (if any)
 
 pip install -r requirements.txt
