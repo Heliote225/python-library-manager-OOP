@@ -45,7 +45,9 @@ A simple command-line application written in Python to manage a small library sy
 #### Clone the repository
 ```bash
 git clone https://github.com/Heliote225/python-library-manager-OOP.git
-cd python-library-manager
+```
+```bash
+cd python-library-manager-OOP
 ```
 #### Install dependencies (if any)
 
