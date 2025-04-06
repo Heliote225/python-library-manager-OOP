@@ -42,25 +42,25 @@ A simple command-line application written in Python to manage a small library sy
 
 ### Getting Started
 
-    #### Clone the repository
-    ```bash
-    git clone https://github.com/votre-utilisateur/python-library-manager.git
-    cd python-library-manager
-    ```
-    #### Install dependencies (if any)
-    
-    ```bash
-    pip install -r requirements.txt
-    ```
-    
-    #### Run the app
-    
-    ```bash
-    python main.py
-    ```
-    
-    #### Run tests
-    
-    ```bash
-    python -m unittest discover tests
-    ```
+#### Clone the repository
+```bash
+git clone https://github.com/votre-utilisateur/python-library-manager.git
+cd python-library-manager
+```
+#### Install dependencies (if any)
+
+```bash
+pip install -r requirements.txt
+```
+
+#### Run the app
+
+```bash
+python main.py
+```
+
+#### Run tests
+
+```bash
+python -m unittest discover tests
+```
