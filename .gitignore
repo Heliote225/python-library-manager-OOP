@@ -10,7 +10,7 @@ venv/
 
 # Data files
 *.json
-data/books.json
+#data/books.json
 
 # Others
 *.log
