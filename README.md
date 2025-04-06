@@ -64,3 +64,25 @@ python main.py
 ```bash
 python -m unittest discover tests
 ```
+
+## Project Structure
+
+```bash
+book.py: Defines the Book class
+
+user.py, member.py, librarian.py: User classes with OOP hierarchy
+
+library.py: Core class to manage the library logic
+
+main.py: CLI interaction logic
+
+data/: Stores saved books in JSON format
+
+tests/: Unit tests for the application
+```
+
+Contributing
+Pull requests are welcome. For major changes, open an issue first to discuss what you would like to change.
+
+License
+Open Source
