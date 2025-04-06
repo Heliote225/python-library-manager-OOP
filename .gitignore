@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+_pycache_/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Data files
+*.json
+data/books.json
+
+# Others
+*.log
+.DS_Store
