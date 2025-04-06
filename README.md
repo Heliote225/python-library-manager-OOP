@@ -3,7 +3,7 @@
 ## Structure des fichiers
 
 ```bash
-python-library-manager/
+python-library-manager-OOP/
 │
 ├── README.md
 ├── main.py
@@ -44,7 +44,7 @@ A simple command-line application written in Python to manage a small library sy
 
 #### Clone the repository
 ```bash
-git clone https://github.com/votre-utilisateur/python-library-manager.git
+git clone https://github.com/votre-utilisateur/python-library-manager-OOP.git
 cd python-library-manager
 ```
 #### Install dependencies (if any)
