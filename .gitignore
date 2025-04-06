@@ -9,7 +9,7 @@ venv/
 .venv/
 
 # Data files
-*.json
+#*.json
 #data/books.json
 
 # Others
