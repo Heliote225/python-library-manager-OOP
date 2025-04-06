@@ -1,6 +1,9 @@
 # python-library-manager-OOP
 
-## Structure des fichiers
+![CLI Demo](assets/screenshot.jpg)
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+
+## Project Structure
 
 ```bash
 python-library-manager-OOP/
