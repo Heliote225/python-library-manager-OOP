@@ -7,6 +7,7 @@
 > - Design clean and modular OOP architecture
 > - Implement business logic that is testable and maintainable
 > - Handle file operations (JSON), error management, and unit testing
+
 >This project is part of a continuous learning approach to align my expertise with the current demands of the software development job market.
 
 
